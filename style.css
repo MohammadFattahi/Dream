@@ -1,0 +1,143 @@
+html , body {
+    width: 100%;
+    height: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-1{
+    
+    background-color: rgba(92, 77, 66, 0.8);
+    opacity: 80%;
+}
+
+.header-2{
+    background-image: url(bg-masthead.jpg);
+    background-size: cover;
+}
+
+.div-head{
+    color: rgb(196, 196, 196) !important;
+}
+
+/* .div-bg{
+    background-color: #f4623a;
+    border-radius: 10px;
+    padding: 0.5rem;
+} */
+
+.div-start:hover{
+    color: white !important;
+    cursor: pointer;
+}
+
+.div-rest1{
+    transition: all 0.5s;
+}
+
+.div-rest1:hover{
+    color: white !important;
+    cursor: pointer;
+}
+
+.div-rest2{
+    transition: all 0.5s;
+}
+
+.div-rest2:hover{
+    color: white !important;
+    cursor: pointer;
+}
+
+.div-rest3{
+    transition: all 0.5s;
+}
+
+.div-rest3:hover{
+    color: white !important;
+    cursor: pointer;
+}
+
+.div-rest4{
+    transition: all 0.5s;
+}
+
+.div-rest4:hover{
+    color: white !important;
+    cursor: pointer;
+}
+
+.div-line{
+    height: 0.25rem;
+    width: 3.5rem;
+    margin: 1rem;
+    background-color: #f4623a;
+    border: 1px solid #f4623a;
+    border-radius: 8px;
+}
+
+.div-p{
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
+
+.div-h1{
+    color: white;
+    font-size: 3.5rem;
+    font-weight: 500;
+}
+
+.input-1{
+    margin-top: 3rem;
+    color: white;
+    background-color: #f4623a;
+    padding: 1rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 40px;
+    transition: all 0.5s;
+}
+
+.input-1:hover{
+    background-color: #e44216;
+}
+
+.main-1{
+    color: white;
+    background-color: rgb(244, 98, 58);
+}
+
+.div-line-2{
+    height: 0.25rem;
+    width: 3.5rem;
+    margin: 1rem;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+.input-2{
+    margin-top: 1rem;
+    color: black;
+    background-color: white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 40px;
+    transition: all 0.5s;
+}
+
+.div-last{
+    width: 20%;
+}
+
+.icon{
+    color: #e44216;
+}
